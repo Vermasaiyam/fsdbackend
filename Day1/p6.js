@@ -5,7 +5,7 @@ const write = (data) => {
         if (err)
             console.log(err)
         else
-            console.log("dome")
+            console.log("done")
     })
 }
 write("Helllo ");
